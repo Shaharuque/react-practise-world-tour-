@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:rgb(28, 110, 83); /* main body tey background color apply*/
 }
 
 .App-logo {
@@ -35,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.each-country-div{
+  border: 2px solid darkcyan;
+  margin: 20px;
+  
 }

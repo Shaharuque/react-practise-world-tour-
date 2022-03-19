@@ -1,0 +1,10 @@
+.div-style{
+    background-color: rgb(164, 82, 212);
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.img-style{
+    width: 150px;
+}
